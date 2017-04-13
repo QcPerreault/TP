@@ -1,0 +1,9 @@
+HRSUP              40.0000      CIE    Nb. hres pour temps supplementaire
+TXSUP              1.5000       CIE    Taux pour heures supplementaire
+TXSYN              0.0078       CIE    Taux cotisation syndicale
+TXASF              0.0102       CIE    Taux ass. collective (familial)
+TXASI              0.0070       CIE    Taux ass. collective (individu)
+MAXRQ              2049.3000    DED    Maximum annuel RRQ
+TXRRQ              0.0495       DED    Taux RRQ
+MAXAC              571.2900     DED    Gain assurable max. Ass. chomage
+TXASC              0.0139       DED    Taux Assurance chomage

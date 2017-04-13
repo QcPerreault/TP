@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1492023518 source:h:\session hiver 2017\c\tp\projet46\main.c
+	<stdio.h>
+	<myconio.h>
+	"Affichage.h"
+
+1492024074 h:\session hiver 2017\c\tp\projet46\affichage.h
+
+1492102940 source:d:\drive\tp\projet46\main.c
+	<stdio.h>
+	<myconio.h>
+
